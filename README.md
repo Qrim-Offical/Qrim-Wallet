@@ -39,6 +39,6 @@
 
 ## Updating/Upgrading the QRIM WALLET Chrome Extension
 
-1. Ensure you have your seed phrase handy.
+1. Ensure you have your private key handy.
 2. Remove (or disable) the previously installed version of the extension.
 3. Download and install latest version following **Installing the QRIM WALLET Chrome Extension** above.
